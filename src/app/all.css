@@ -1,0 +1,367 @@
+@media (max-width: 1200px) {
+  .hero-contant {
+    padding: 0px 50px !important;
+  }
+  .discount-contant {
+    padding: 80px 50px !important;
+  }
+  .footer-warp {
+    padding: 100px 50px !important;
+  }
+  .footer-img-galler {
+    flex-wrap: wrap;
+  }
+  .about-text h2 {
+    font-size: 36px !important;
+  }
+  .contactfrist-container {
+    padding: 100px 50px !important;
+  }
+  .contactfrist-container h2 {
+    padding: 20px 0px 8px;
+  }
+  .contactfrist-container p {
+    padding-bottom: 20px;
+  }
+}
+@media (max-width: 768px) {
+  .working-container {
+    flex-wrap: wrap !important;
+  }
+  .working-containt {
+    padding: 50px 20px !important;
+  }
+  .working-hour {
+    margin: 20px 0px 0px !important;
+    width: 100% !important;
+  }
+  .about-contanier {
+    flex-direction: column;
+  }
+  .about-img {
+    width: 100% !important;
+  }
+  .about-text {
+    width: 100% !important;
+  }
+  .about-sec {
+    margin: 0px 20px !important;
+  }
+  .second-sec {
+    padding: 50px 0px !important;
+  }
+  .about-text p {
+    padding: 15px 0px !important;
+  }
+  .features-container {
+    padding: 80px 20px 80px 20px !important;
+  }
+  .feature-card-warp {
+    margin: 40px 0px 0px !important;
+  }
+  .feature-card h2 {
+    text-align: center !important;
+    font-size: 20px !important;
+    margin: 20px 0px 0px !important;
+  }
+  .working-containt h2 {
+    font-size: 40px !important;
+    margin: 30px 0px 0px 0px !important;
+    line-height: 46px !important;
+  }
+  .newletter-warp {
+    padding-top: 0px !important;
+  }
+  .footer-text-sec {
+    flex-wrap: wrap !important;
+    gap: 0px !important;
+  }
+  .main-header .menu-navbar a {
+    font-size: 18px !important;
+  }
+  .main-header .full-nav {
+    gap: 30px !important;
+  }
+  .contactsecond-card img {
+    max-width: 60px !important;
+  }
+  .contact-bg {
+    padding: 50px 0px;
+  }
+  .contactsecond-card-main {
+    padding: 40px 0px 80px !important;
+    margin: 0px 20px !important;
+    border-bottom: dotted 4px red !important;
+  }
+  .Contactsecond-container {
+    border-bottom: unset !important;
+    padding: 0px !important;
+  }
+}
+@media (max-width: 640px) {
+  .contact-bg {
+    padding: 50px 0px !important;
+  }
+  .contactfrist-container h2 {
+    font-size: 30px !important;
+    line-height: 40px !important;
+  }
+  .contactfrist-container p {
+    font-size: 16px !important;
+  }
+  .contact-btn span {
+    font-size: 14px !important;
+  }
+  .contact-btn .btn-cont {
+    font-size: 14px !important;
+  }
+  .Contactsecond-contant h2 {
+    font-size: 30px !important;
+    line-height: 40px !important;
+    padding-top: 0px !important;
+    text-align: center !important;
+  }
+  .Contactsecond-contant p {
+    font-size: 16px !important;
+    padding-top: 10px !important;
+    text-align: center !important;
+  }
+  .Contactsecond-contant {
+    padding: 0px 20px !important;
+  }
+
+  .contactsecond-card-main {
+    justify-content: center !important ;
+    align-items: center !important;
+    flex-wrap: wrap !important;
+    gap: 30px !important;
+  }
+  .contactsecond-card h3 {
+    margin: 10px 0px 0px !important;
+  }
+  .Contactthrid-contant h2 {
+    font-size: 30px !important;
+    line-height: 40px !important;
+    padding-top: 0px !important;
+    text-align: center !important;
+  }
+  .Contactthrid-contant p {
+    font-size: 16px !important;
+    padding-top: 10px !important;
+    text-align: center !important;
+  }
+  .Contactthrid-container {
+    padding: 80px 20px !important;
+  }
+}
+@media (max-width: 576px) {
+  .main-header .navbar {
+    padding: 0px 20px !important;
+    flex-direction: column !important;
+    gap: 30px !important;
+  }
+  .Contact-full-form {
+    padding-top: 40px !important;
+  }
+  .Contactthrid-container {
+    padding: 50px 20px !important;
+  }
+  .contact-name-sec {
+    align-items: center !important;
+    gap: 0px !important;
+    flex-wrap: wrap !important;
+  }
+  .contact-phone-sec {
+    align-items: center !important;
+    gap: 0px !important;
+    flex-wrap: wrap !important;
+  }
+  .main-header .menu-navbar {
+    gap: 15px !important;
+  }
+  .main-header .full-nav {
+    gap: 15px !important;
+  }
+  .hero-contant h1 {
+    font-size: 30px !important;
+    line-height: 36px !important;
+    padding-top: 20px !important;
+  }
+  .hero-contant h3 {
+    font-size: 20px !important;
+    line-height: 26px !important;
+  }
+  .hero-contant p {
+    font-size: 16px !important;
+    line-height: 24px !important;
+    padding-top: 20px !important;
+  }
+  .hero-sec {
+    height: 400px !important;
+  }
+  .hero-btn .order {
+    padding: 15px 20px !important;
+    font-size: 14px !important;
+  }
+  .hero-btn .menu {
+    padding: 15px 20px !important;
+    font-size: 14px !important;
+  }
+  .hero-contant {
+    padding: 0px 20px !important;
+  }
+  .second-sec {
+    margin: 0px 20px !important;
+  }
+  .about-text h6 {
+    font-size: 20px;
+  }
+  .about-text h2 {
+    font-size: 26px !important;
+    padding-top: 15px !important;
+    word-spacing: 0.5px !important;
+  }
+  .about-text p {
+    font-size: 16px !important;
+  }
+  .about-text-botom {
+    align-items: flex-start !important;
+    flex-direction: column !important;
+  }
+  .about-text-botom .icon-list-text {
+    font-size: 16px !important;
+  }
+  .about-siger {
+    flex-direction: column-reverse !important;
+  }
+  .about-btn {
+    padding: 12px 20px !important;
+    font-size: 14px !important;
+  }
+  .about-contanier {
+    padding: 0px 0px 50px !important;
+  }
+  .features-container {
+    padding: 50px 20px 50px 20px !important;
+    border-bottom: unset !important;
+  }
+  .features-container h2 {
+    font-size: 26px !important;
+    line-height: 36px !important;
+    text-align: center !important;
+  }
+  .feature-card-warp {
+    flex-wrap: wrap !important;
+  }
+  .feature-card img {
+    width: 100%;
+    max-width: 60px !important;
+  }
+  .feature-card h2 {
+    font-size: 20px !important;
+    margin-top: 5px !important;
+  }
+  .feature-card p {
+    font-size: 16px !important;
+    padding: 5px 0px 24px !important;
+  }
+  .Working-warp {
+    padding-top: 0px !important;
+  }
+  .btn-Rest {
+    padding: 0px 20px !important;
+    line-height: 46px !important;
+  }
+  .working-containt h2 {
+    font-size: 30px !important;
+  }
+  .discount-contant {
+    padding: 50px 20px !important;
+    flex-direction: column !important;
+    justify-content: flex-start !important;
+    align-items: flex-start !important;
+  }
+  .dist-text h2 {
+    font-size: 26px !important;
+    line-height: 34px !important;
+  }
+  .dist-img img {
+    width: 100%;
+    max-width: 400px !important;
+    margin-top: 30px !important;
+  }
+  .dist-btn span {
+    font-size: 14px !important;
+  }
+  .newletter-contant h2 {
+    font-size: 26px !important;
+    line-height: 30px !important;
+  }
+  .newletter-contant {
+    padding: 70px 20px !important;
+  }
+  .newletter-contant form {
+    display: flex;
+    align-items: center;
+    gap: 15px !important;
+    margin-top: 20px !important;
+    flex-wrap: wrap !important;
+    justify-content: center !important;
+  }
+  .footer-warp {
+    padding: 50px 20px !important;
+  }
+  .footer-descr p {
+    font-size: 16px !important;
+    padding-top: 20px !important;
+    padding-bottom: 20px !important;
+  }
+  .footer-contact-sec h3 {
+    padding-bottom: 20px !important;
+  }
+  .footer-contact {
+    justify-content: flex-start !important;
+  }
+  .footer-galler-sec h4 {
+    padding-bottom: 20px !important;
+  }
+  .footer-contact-sec h5 {
+    padding-bottom: 30px !important;
+    padding-top: 10px !important;
+  }
+  .footer-galler-sec h5 {
+    padding-bottom: 30px !important;
+    padding-top: 10px !important;
+  }
+  .footer-contact h5 {
+    padding-bottom: 30px !important;
+    padding-top: 10px !important;
+  }
+  .contactfrist-container {
+    padding: 50px 20px !important;
+  }
+  .contact-bg {
+    margin: 0px 20px !important;
+  }
+}
+@media (max-width: 375px) {
+  .main-header .menu-navbar a {
+    font-size: 16px !important;
+  }
+  .main-header .menu-navbar {
+    gap: 10px !important;
+  }
+  .footer-img-galler img {
+    width: 100%;
+    max-width: 130px !important;
+  }
+  .footer-logo img {
+    padding: 8px 50px !important;
+  }
+  .footer-logo {
+    justify-content: space-between !important;
+    padding-bottom: 20px !important;
+    flex-direction: column !important;
+    gap: 20px !important;
+  }
+}
